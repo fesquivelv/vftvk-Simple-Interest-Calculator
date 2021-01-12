@@ -8,6 +8,7 @@ h1{
 }
 
 .maindiv {
+    margin: 0 auto;
     background-color: white;
     color: black;
     width: 400px;
